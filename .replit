@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "npm bot.js"
+run = "node bot.js"
